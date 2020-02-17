@@ -1,0 +1,10 @@
+#Unity
+Library
+Temp
+
+#Visual Studio
+.vs
+obj
+bin
+*.csproj
+*.sln
